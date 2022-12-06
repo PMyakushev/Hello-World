@@ -31,12 +31,63 @@
 // 456 -> 46
 // 782 -> 72
 // 918 -> 98
-int number = new Random().Next(100, 300);
-int First = number / 100;
-int Second1 = number % 100;
-int Second = Second1 / 10;
-int Third =Second1 % 10;
+// int number = new Random().Next(100, 300);
+// int First = number / 100;
+// int Second1 = number % 100;
+// int Second = Second1 / 10;
+// int Third =Second1 % 10;
 
-Console.WriteLine(number);
-Console.Write(First);
-Console.Write(Third);
+// Console.WriteLine(number);
+// Console.Write(First);
+// Console.Write(Third);
+
+// 12. Напишите программу, которая будет принимать на вход два числа и выводить, является ли второе число кратным первому. Если число 2 не кратно числу 1, то программа выводит остаток от деления.
+// 34, 5 -> не кратно, остаток 4 
+// 16, 4 -> кратно
+
+// int numberone = new Random().Next(10, 100);
+// int numbertwo = new Random().Next(1, 10);
+// int max = numberone%numbertwo;
+// Console.WriteLine(numberone);
+// Console.WriteLine(numbertwo);
+// if (max == 0)
+// Console.Write("Кратно");
+// else
+// Console.Write("Не кратно");
+
+
+// 14. Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
+// 14 -> нет 
+// 46 -> нет 
+// 161 -> да
+
+// Console.WriteLine("Введите число");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if (number % 7 == 0 && number % 23 == 0)
+// {
+//    Console.WriteLine("Кратно");
+// }
+// else 
+// {
+//     Console.WriteLine("Некратно"); 
+// }
+   
+// 16. Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.
+// 5, 25  ->  да
+// -4, 16  ->  да
+// 25, 5  ->  да
+// 8,9  ->  нет
+
+// Console.WriteLine("Введите числа");
+// int numberone = Convert.ToInt32(Console.ReadLine());
+// int numbertwo = Convert.ToInt32(Console.ReadLine());
+// ;
+// if ((numberone*numberone) == numbertwo)
+// {
+//     Console.WriteLine("да");
+// }
+// else
+// {
+//     Console.WriteLine("нет"); 
+// }
