@@ -1,0 +1,15 @@
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\bin\Debug\net7.0\Practical_lesson_6.exe
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\bin\Debug\net7.0\Practical_lesson_6.deps.json
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\bin\Debug\net7.0\Practical_lesson_6.runtimeconfig.json
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\bin\Debug\net7.0\Practical_lesson_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\bin\Debug\net7.0\Practical_lesson_6.pdb
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.csproj.AssemblyReference.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\refint\Practical_lesson_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.pdb
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\Practical_lesson_6.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\Practical_lesson_6\obj\Debug\net7.0\ref\Practical_lesson_6.dll
