@@ -1,0 +1,15 @@
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.csproj.AssemblyReference.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\bin\Debug\net7.0\HomeWork_6.exe
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\bin\Debug\net7.0\HomeWork_6.deps.json
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\bin\Debug\net7.0\HomeWork_6.runtimeconfig.json
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\bin\Debug\net7.0\HomeWork_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\bin\Debug\net7.0\HomeWork_6.pdb
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\refint\HomeWork_6.dll
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.pdb
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\HomeWork_6.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\Проект\Hello-World\HomeWork_6\obj\Debug\net7.0\ref\HomeWork_6.dll
